@@ -1,2 +1,2 @@
 # machine_learning
-sklearn_Demo
+sklearn简单使用示例
